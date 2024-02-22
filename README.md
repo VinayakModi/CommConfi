@@ -30,7 +30,7 @@ Clone the repository to your local machine. Navigate to the directory containing
 python code.py
 ```
 
-# Project Overview 📚🔍🏆
+## Project Overview 📚🔍🏆
    Automate comment analysis and categorization based on content or sentiment.
    
  + Classify comments into predefined categories (e.g., Abusive, Offensive, No issues).
@@ -43,7 +43,7 @@ python code.py
  + Improve content moderation.
  + Gain insights for user satisfaction and platform performance.
 
-# Code Summary 📝💻📊
+## Code Summary 📝💻📊
 
  The code starts by importing the necessary Python libraries and the hate speech dataset. It then performs various operations on the data such as filtering, sorting, aggregating, and 
  visualizing. Some of the key operations include:
@@ -57,6 +57,6 @@ python code.py
 
 
 
-# Contact 📧📞🤝
+## Contact 📧📞🤝
 
 For any queries related to this comment classifer project, feel free to reach out at https://www.linkedin.com/in/vinayak-m-661b1b200 or raise an issue in the GitHub repository. 📬📞📊🤝
