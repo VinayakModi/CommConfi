@@ -12,6 +12,9 @@ You need to have Python 3 installed on your machine. Additionally, you need to h
  + pandas 🐼
  + matplotlib 📊
  + nltk :computer:
+ + countVectorizer ℹ️
+ + sklearn 💹
+   
 
 You can install these packages using pip:
 
